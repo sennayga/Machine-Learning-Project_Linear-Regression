@@ -1,5 +1,5 @@
 # Multiple Linear Regression Method
-## Source Code (Python)
+## Dataset: [ tentang E-commerce Customer](https://www.kaggle.com/datasets/iyadavvaibhav/ecommerce-customer-device-usage)
  ####   NIM  : 1206210012
  ####   Nama : Senna Yoga A
 _____________________________________________________________
