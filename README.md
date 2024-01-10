@@ -1,4 +1,4 @@
-# Kasus 1 - Program Antrian Parkir Telkom University Surabaya
+# Multiple Linear Regression Method
 ## Source Code (Python)
  ####   NIM  : 1206210012
  ####   Nama : Senna Yoga A
